@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "splunk-rum-npm"
+    }
+  },
+  "defaultProject": "splunk-rum-npm",
+  "cli": {
+    "analytics": false
+  }
 }
